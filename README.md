@@ -1,2 +1,0 @@
-# devcontainer
-my devcontainer config
